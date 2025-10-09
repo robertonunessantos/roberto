@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Sobre - ROBERTO-TELEFLIX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>ROBERTO-TELEFLIX</h1>
+  </header>
+<-- Cole aqui seu texto sobre você e sua página -->
+<h2>Sobre a página</h2>
+
+<h2>Sobre o autor</h2>
+
+  <p style="margin-top:30px;">
+      <a href="index.html" style="text-decoration:none;">← Voltar para a página inicial</a>
+    </p>
+  </main>
+</body>
+</html>
